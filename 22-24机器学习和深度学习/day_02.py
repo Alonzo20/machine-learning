@@ -10,6 +10,9 @@ from sklearn.tree import DecisionTreeClassifier, export_graphviz
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 
+'''
+02_机器学习第二天_分类算，评估，调优
+'''
 
 # li = load_iris()
 
